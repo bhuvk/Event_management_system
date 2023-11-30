@@ -1,0 +1,32 @@
+<root>
+    <VIPS>
+        <ROW>
+            <GUEST_ID>2</GUEST_ID>
+            <VIP_NAME>Isabella Ramos</VIP_NAME>
+            <PHONE_NO>15963482675</PHONE_NO>
+            <DESIGNATION>Marketing Manager</DESGINANTION>
+            <AGE></AGE>
+        </ROW>
+        <ROW>
+            <GUEST_ID>5</GUEST_ID>
+            <VIP_NAME>Elijah Patel</VIP_NAME>
+            <PHONE_NO>9658423549</PHONE_NO>
+            <DESIGNATION>Project Manager</DESGINANTION>
+            <AGE></AGE>
+        </ROW>
+        <ROW>
+            <GUEST_ID>6</GUEST_ID>
+            <VIP_NAME>Caleb Sullivan</VIP_NAME>
+            <PHONE_NO>7698562431</PHONE_NO>
+            <DESIGNATION>Financial Analyst</DESGINANTION>
+            <AGE></AGE>
+        </ROW>
+        <ROW>
+            <GUEST_ID>7</GUEST_ID>
+            <VIP_NAME>Mia Gallagher</VIP_NAME>
+            <PHONE_NO>4896357159</PHONE_NO>
+            <DESIGNATION>Senior Software Engineer</DESGINANTION>
+            <AGE></AGE>
+        </ROW>
+    <VIPS>
+</root>

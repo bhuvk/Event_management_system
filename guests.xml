@@ -1,0 +1,74 @@
+<root>
+    <GUESTS>
+        <ROW>
+            <GUEST_ID>1</GUEST_ID>
+            <GUEST_NAME>Oliver Mitchell</GUEST_NAME>
+            <ADDRESS_LINE_1>23 Neem Road</ADDRESS_LINE_1>
+            <ADDRESS_LINE_2>Kochi, Kerala 682018</ADDRESS_LINE_2>
+            <CLIENT_ID>1</CLIENT_ID>
+        </ROW>
+        <ROW>
+            <GUEST_ID>2</GUEST_ID>
+            <GUEST_NAME>Isabella Ramos</GUEST_NAME>
+            <ADDRESS_LINE_1>901 Ganga Apartments</ADDRESS_LINE_1>
+            <ADDRESS_LINE_2>Varanasi, Uttar Pradesh 221001</ADDRESS_LINE_2>
+            <CLIENT_ID>1</CLIENT_ID>
+        </ROW>
+        <ROW>
+            <GUEST_ID>3</GUEST_ID>
+            <GUEST_NAME>Lucas Hudson</GUEST_NAME>
+            <ADDRESS_LINE_1>456 Himalaya Towers</ADDRESS_LINE_1>
+            <ADDRESS_LINE_2>Srinagar, Jammu and Kashmir 190001</ADDRESS_LINE_2>
+            <CLIENT_ID>1</CLIENT_ID>
+        </ROW>
+        <ROW>
+            <GUEST_ID>4</GUEST_ID>
+            <GUEST_NAME>Ava Thompson</GUEST_NAME>
+            <ADDRESS_LINE_1>789 Mahogany Avenue</ADDRESS_LINE_1>
+            <ADDRESS_LINE_2>Hyderabad, Telangana 500001</ADDRESS_LINE_2>
+            <CLIENT_ID>1</CLIENT_ID>
+        </ROW>
+        <ROW>
+            <GUEST_ID>5</GUEST_ID>
+            <GUEST_NAME>Elijah Patel</GUEST_NAME>
+            <ADDRESS_LINE_1>567 Tulsi Nagar, Apt 4A</ADDRESS_LINE_1>
+            <ADDRESS_LINE_2> Jaipur, Rajasthan 302018</ADDRESS_LINE_2>
+            <CLIENT_ID>1</CLIENT_ID>
+        </ROW>
+        <ROW>
+            <GUEST_ID>6</GUEST_ID>
+            <GUEST_NAME>Caleb Sullivan</GUEST_NAME>
+            <ADDRESS_LINE_1>890 Lotus Street, Flat 7B</ADDRESS_LINE_1>
+            <ADDRESS_LINE_2>Bangalore, Karnataka 560001</ADDRESS_LINE_2>
+            <CLIENT_ID>1</CLIENT_ID>
+        </ROW>
+        <ROW>
+            <GUEST_ID>7</GUEST_ID>
+            <GUEST_NAME>Mia Gallagher</GUEST_NAME>
+            <ADDRESS_LINE_1>12 Peepal Lane, House 3C</ADDRESS_LINE_1>
+            <ADDRESS_LINE_2>Mumbai, Maharashtra 400001</ADDRESS_LINE_2>
+            <CLIENT_ID>1</CLIENT_ID>
+        </ROW>
+        <ROW>
+            <GUEST_ID>8</GUEST_ID>
+            <GUEST_NAME>Jackson Kim</GUEST_NAME>
+            <ADDRESS_LINE_1>345 Ashoka Enclave, Sector 22</ADDRESS_LINE_1>
+            <ADDRESS_LINE_2>Faridabad, Haryana 121001</ADDRESS_LINE_2>
+            <CLIENT_ID>1</CLIENT_ID>
+        </ROW>
+        <ROW>
+            <GUEST_ID>9</GUEST_ID>
+            <GUEST_NAME>Scarlett Nguyen</GUEST_NAME>
+            <ADDRESS_LINE_1>678 Banyan Heights</ADDRESS_LINE_1>
+            <ADDRESS_LINE_2>Pune, Maharashtra 411001</ADDRESS_LINE_2>
+            <CLIENT_ID>1</CLIENT_ID>
+        </ROW>
+        <ROW>
+            <GUEST_ID>10</GUEST_ID>
+            <GUEST_NAME>Sophia Chang</GUEST_NAME>
+            <ADDRESS_LINE_1>234 Yamuna Street</ADDRESS_LINE_1>
+            <ADDRESS_LINE_2>Chandigarh 160001</ADDRESS_LINE_2>
+            <CLIENT_ID>1</CLIENT_ID>
+        </ROW>
+    </GUESTS>
+</root>
